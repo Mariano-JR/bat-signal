@@ -1,0 +1,18 @@
+[
+    {
+        "label":"Name:",
+        "placeholder":"Input your name..."
+    },
+    {
+        "label":"Phone:",
+        "placeholder":"Input your phone..."
+    },
+    {
+        "label":"Location:",
+        "placeholder":"Input your location..."
+    },
+    {
+        "label":"Observation:",
+        "placeholder":"Any observation?"
+    }
+]
